@@ -1,6 +1,7 @@
 # frog-button
  
-F.R.O.G Button (Fast Response for Optimal Gaming) is a mostly 3D-printable 24mm arcade button that uses standard 3-pin mouse switches for low travel distance and fast actuation
+F.R.O.G Button (Fast Response for Optimal Gaming) is a mostly 3D-printable 24mm arcade button that uses standard 3-pin mouse switches for low travel distance and fast actuation.
+
 ![image](https://github.com/rana-sylvatica/frog-button/assets/95242582/22c2b2e3-2f3f-4100-b984-734f774e80a0)
 
 
